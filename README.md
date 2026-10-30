@@ -90,3 +90,7 @@ Bunlar bir modelin başarısı değildir; yalnızca görev setinin soru metninde
 ## Nasıl geliştirdim
 
 Bu projeyi yapay zekâ kodlama asistanıyla birlikte yazdım. Neyin ölçüleceğine ben karar verdim (Türkçe'ye özgü puanlama, güven aralığı, ücretli çağrı için açık onay); kod, testler ve görev taslakları asistanla üretildi ve testlerle doğrulandı. Gerçek bir modelle çalıştırmadığım için sonuç tablosunda model yok.
+
+## Lisans
+
+[MIT](LICENSE).
