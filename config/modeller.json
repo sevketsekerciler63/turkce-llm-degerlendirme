@@ -1,0 +1,5 @@
+{
+  "claude-opus-5-5": { "model": "claude-opus-5-5", "fiyat": { "girdi": 4, "cikti": 20 } },
+  "claude-sonnet-5-5": { "model": "claude-sonnet-5-5", "fiyat": { "girdi": 2, "cikti": 10 } },
+  "claude-haiku-5-5": { "model": "claude-haiku-5-5", "fiyat": { "girdi": 0.1, "cikti": 0.5 } }
+}
