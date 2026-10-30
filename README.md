@@ -1,5 +1,7 @@
 # Türkçe LLM Değerlendirme
 
+[![CI](https://github.com/sevketsekerciler63/turkce-llm-degerlendirme/actions/workflows/ci.yml/badge.svg)](https://github.com/sevketsekerciler63/turkce-llm-degerlendirme/actions/workflows/ci.yml)
+
 Dil modellerini (veya istem yöntemlerini) küçük bir **Türkçe görev seti** üzerinde karşılaştıran, tekrarlanabilir bir komut satırı aracı. Doğruluk, gecikme, token ve maliyeti tek raporda verir; küçük örneklemde yüzdelerin ne kadar güvenilir olduğunu **%95 güven aralığıyla** gösterir.
 
 > **Durum — dürüst özet:** Araç, görev seti ve puanlayıcılar tamamlandı ve test edildi. **Gerçek bir dil modeliyle henüz çalıştırılmadı** (geliştirme ortamında API anahtarı yoktu). Aşağıdaki sonuç tablosu yalnızca modelsiz *temel (baseline)* yöntemleri içerir. Claude sağlayıcısı resmî SDK ile yazıldı ve derleniyor, ama canlı API ile denenmedi.
