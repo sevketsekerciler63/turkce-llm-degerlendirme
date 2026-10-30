@@ -87,4 +87,4 @@ Bunlar bir modelin başarısı değildir; yalnızca görev setinin soru metninde
 
 ## Nasıl geliştirdim
 
-Bu proje yapay zekâ kodlama asistanıyla birlikte geliştirildi; bunu saklamıyorum. Kapsam ve ölçüm ilkelerini (Türkçe'ye özgü puanlama, güven aralığı, ücretli çağrıya açık onay, "çalıştırılmayanı başarılı yazma") ben belirliyorum; kod, testler ve görev taslakları asistanla üretildi ve yukarıdaki testlerle doğrulandı.
+Bu projeyi yapay zekâ kodlama asistanıyla birlikte yazdım. Neyin ölçüleceğine ben karar verdim (Türkçe'ye özgü puanlama, güven aralığı, ücretli çağrı için açık onay); kod, testler ve görev taslakları asistanla üretildi ve testlerle doğrulandı. Gerçek bir modelle çalıştırmadığım için sonuç tablosunda model yok.
